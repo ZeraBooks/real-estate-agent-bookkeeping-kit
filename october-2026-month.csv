@@ -1,0 +1,19 @@
+Line,Amount,Account,In profit
+"Commission, 14 Alder Court",12000.00,40100 Gross commission income,Yes
+"Commission, 2207 Harbor View Drive",15375.00,40100 Gross commission income,Yes
+Referral fee from another agent's brokerage,1500.00,40200 Referral fees received,Yes
+"Brokerage split, 14 Alder Court",-2400.00,50100 Brokerage split,Yes
+"Brokerage split, 2207 Harbor View Drive",-3075.00,50100 Brokerage split,Yes
+"Transaction fee, 14 Alder Court",-395.00,50200 Transaction fees,Yes
+"Transaction fee, 2207 Harbor View Drive",-395.00,50200 Transaction fees,Yes
+"Per-transaction E&O fee, 2207 Harbor View Drive",-50.00,60300 E&O insurance,Yes
+Desk fee,-500.00,60100 Desk fees,Yes
+MLS dues,-145.00,60200 MLS and association dues,Yes
+"Listing photos and signs, 14 Alder Court",-530.00,60400 Marketing,Yes
+Online buyer ads,-450.00,60500 Lead generation,Yes
+Fuel,-212.40,60600 Vehicle,Yes
+"Closing gifts, 3 buyers at 120.00",-360.00,60700 Client gifts,Yes
+Continuing education course,-199.00,60800 License and continuing education,Yes
+Phone and CRM,-129.00,60900 Phone and software,Yes
+Transfer to tax savings,-6000.00,10200 Tax savings,No
+Owner draw to personal account,-5000.00,30100 Owner draws,No

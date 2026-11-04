@@ -1,0 +1,21 @@
+Number,Name,Type,Detail,Notes
+10100,Business checking,Asset,Bank,Commission deposits land here; business costs paid from here
+10200,Tax savings,Asset,Bank,Money set aside for estimated tax. Keeps it from looking like spending money
+20100,Business credit card,Liability,Credit card,One card for business costs only
+30100,Owner draws,Equity,Owner,Money moved to your personal account. Not an expense
+30200,Estimated tax payments,Equity,Owner,Federal estimates paid from the business account. Not an expense
+40100,Gross commission income,Revenue,Income,"Your side of each closing, before the brokerage split and fees"
+40200,Referral fees received,Revenue,Income,From agents you send clients to
+50100,Brokerage split,Cost of revenue,Cost of sales,The brokerage's share of your side of the commission
+50200,Transaction fees,Cost of revenue,Cost of sales,Per-closing fees the brokerage takes from the check
+50300,Referral fees paid,Cost of revenue,Cost of sales,Get a Form W-9 before paying. 1099-NEC at $2000 or more for payments from 2026
+50400,Team member commissions,Cost of revenue,Cost of sales,Team leads only: each member's share when the whole commission is paid to the lead
+60100,Desk fees,Expense,Operating,Monthly brokerage desk or office fee
+60200,MLS and association dues,Expense,Operating,
+60300,E&O insurance,Expense,Operating,Including per-transaction E&O fees taken from a commission check
+60400,Marketing,Expense,Operating,"Listing photos, signs, print, listing ads"
+60500,Lead generation,Expense,Operating,Paid lead services and online ads for buyers and sellers
+60600,Vehicle,Expense,Operating,Fuel and car costs. Keep a mileage log; your tax preparer decides how the car is deducted
+60700,Client gifts,Expense,Operating,Book the full cost with the person's name. Deduction limited to $25 per person per year (IRS Publication 463)
+60800,License and continuing education,Expense,Operating,
+60900,Phone and software,Expense,Operating,"Phone, CRM, e-signature, transaction management"

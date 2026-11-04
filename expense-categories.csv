@@ -1,0 +1,19 @@
+Expense,Account,Notes
+Brokerage split taken from a commission check,50100 Brokerage split,From the commission statement or disbursement sheet
+Transaction or admin fee taken from a commission check,50200 Transaction fees,From the commission statement
+Per-transaction E&O fee,60300 E&O insurance,From the commission statement
+Monthly desk fee,60100 Desk fees,
+MLS dues and association dues,60200 MLS and association dues,
+Listing photos and video,60400 Marketing,
+Yard signs and riders,60400 Marketing,
+Open house flyers and print,60400 Marketing,
+Paid leads and online ads,60500 Lead generation,
+Fuel and car costs,60600 Vehicle,Keep the mileage log as you drive
+Parking and tolls on business trips,60600 Vehicle,
+Closing gifts for buyers and sellers,60700 Client gifts,Name each person in the memo so the $25 limit can be applied
+License renewal and continuing education,60800 License and continuing education,
+Phone bill and software subscriptions,60900 Phone and software,Business share only if the phone is also personal
+Referral fee paid to another agent's company,50300 Referral fees paid,Form W-9 first
+Groceries or personal spending on the business card,30100 Owner draws,Not a business expense
+Federal estimated tax payment,30200 Estimated tax payments,Not a business expense
+Transfer to tax savings,10200 Tax savings,A move between your own accounts

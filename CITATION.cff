@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Real estate agent bookkeeping kit"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/real-estate-agent-bookkeeping-kit"
+repository-code: "https://github.com/ZeraBooks/real-estate-agent-bookkeeping-kit"
+license: CC-BY-4.0
+abstract: "A real estate agent should run a separate business bank account, record each commission at its gross amount with the brokerage split and fees as expenses, log every business mile, and set money aside for quarterly estimated tax. This kit has a chart of accounts, an expense category list, a commission split check that ties each closing to the brokerage's deposit, a mileage log, and a fictional agent's month."
+keywords:
+  - real-estate
+  - real-estate-agents
+  - bookkeeping
+  - chart-of-accounts
+  - commission
+  - accounting
+date-released: 2026-11-04
