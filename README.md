@@ -117,7 +117,7 @@ the amounts; current books tell them the profit so far.
 
 ## Learn more
 
-Full guide: [Bookkeeping for real estate agents](https://www.zerabooks.com/bookkeeping-for-real-estate-agents). Related: [ZeraBooks bookkeeping services](https://www.zerabooks.com/bookkeeping-services).
+Full guide: [Bookkeeping for real estate agents](https://www.zerabooks.com/bookkeeping-for-real-estate-agents). Related: [ZeraBooks](https://www.zerabooks.com/), accounting software that does your books for you, with free setup and a free catch-up of your past months.
 
 ## License
 
